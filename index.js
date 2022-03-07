@@ -37,3 +37,6 @@ client.on("message",async msg =>{
 
 keepAlive()
 client.login(mySecret)
+
+
+//Some Commands: $btc, $etc
